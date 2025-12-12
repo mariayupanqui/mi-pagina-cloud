@@ -24,7 +24,7 @@ body {
 body {
     margin: 0;
     background: linear-gradient(180deg, var(--bg), #eef3f6);
-    color: #0f172a;
+    color: #356cee;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 16px;
